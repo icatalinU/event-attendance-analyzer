@@ -1,0 +1,23 @@
+📊 Event Summary Report
+
+Event Name: Tech Future Summit 2025
+Venue: ExCeL London
+Total Bookings: 150
+Total Attendance: 132
+Attendance Rate: 88.0%
+Date: 2025-04-01
+------------------------
+Event Name: London Jazz Festival 2025
+Venue: Southbank Centre
+Total Bookings: 95
+Total Attendance: 65
+Attendance Rate: 68.42%
+Date: 2025-04-02
+------------------------
+Event Name: Modern Art Expo
+Venue: National Gallery
+Total Bookings: 60
+Total Attendance: 38
+Attendance Rate: 63.33%
+Date: 2025-04-03
+------------------------
